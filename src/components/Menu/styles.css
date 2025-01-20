@@ -1,0 +1,13 @@
+.navbar {
+    float: right;
+}
+
+.col-sm-12.bg-white.border-bottom.shadow-sm {
+    height: 55px;
+    padding: 0px 20px;
+}
+
+h5.font-weight-normal {
+    float: left;
+    margin-top: 12px;
+}
